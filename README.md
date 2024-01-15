@@ -47,8 +47,8 @@ __Check out my GitHub repository:__
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=Ikromjonovs&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikromjonovs&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
